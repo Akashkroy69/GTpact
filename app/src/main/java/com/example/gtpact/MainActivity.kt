@@ -23,7 +23,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     Greeting("Android")
-                    println("Hey bro!")what are you doing?
+                    //println("Hey bro!")what are you doing?
+                    let's' fuck one more time
                 }
             }
         }
