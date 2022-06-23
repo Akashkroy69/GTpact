@@ -23,7 +23,10 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     Greeting("Android")
-                    println("Hey bro!")what are you doing?
+                    println("Hey bro!") what are you doing?
+                    we are writing this to understand stashing .
+
+                    println("We are already in Experimental branch. And this is first commit for the Experimental branch")
                 }
             }
         }
